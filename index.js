@@ -47,9 +47,9 @@ divideBy3()
 console.log(number) // 5
 
 function increment(n) {
-  console.log(n+=);
+  return (n+=);
 }
 
 function decrement(n); {
-  console.log(n-=);
+  return n-=;
 }
