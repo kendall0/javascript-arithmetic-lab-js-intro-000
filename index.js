@@ -1,8 +1,8 @@
-var x = 13;
-var y = 12;
+var a = 13;
+var b = 12;
 
-function add(x, y) {
-  console.log(x + y);
+function add(a, b) {
+  console.log(a + b);
 }
 
 function subtract(x, y) {
