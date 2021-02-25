@@ -49,3 +49,7 @@ console.log(number) // 5
 function increment(n) {
   n+=;
 }
+
+function decrement(n) {
+  n-=;
+}
