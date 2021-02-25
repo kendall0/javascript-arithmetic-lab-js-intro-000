@@ -1,7 +1,8 @@
-var a, b
+var number;
 
 function add(a, b) {
-  console.log(a + b);
+  number = (a + b);
+  return number;
 }
 
 function subtract(x, y) {
