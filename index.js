@@ -15,7 +15,7 @@ function multiply(a, b) {
   return number;
 }
 
-function divide(x, y) {
+function divide(a, b) {
   console.log(x / y);
 }
 
