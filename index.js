@@ -1,5 +1,4 @@
-var a = 12;
-var b = 13;
+var a, b
 
 function add(a, b) {
   console.log(a + b);
