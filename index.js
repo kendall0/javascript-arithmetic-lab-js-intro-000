@@ -50,6 +50,6 @@ function increment(a) {
   console.log(a + 1);
 }
 
-function decrement(n); {
+function decrement(n) {
   return n-=;
 }
