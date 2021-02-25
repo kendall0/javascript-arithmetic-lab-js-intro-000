@@ -51,5 +51,5 @@ function increment(a) {
 }
 
 function decrement(n) {
-  return n-=;
+  console.log(a - 1);
 }
