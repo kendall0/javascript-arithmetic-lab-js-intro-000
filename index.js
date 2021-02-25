@@ -1,4 +1,6 @@
 function add(x, y) {
+  var x = 1100;
+  var y = 82;
   console.log(x + y);
 }
 
