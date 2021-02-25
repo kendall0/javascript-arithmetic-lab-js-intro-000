@@ -1,5 +1,8 @@
+x = 13;
+y = 12;
+
 function add(x, y) {
-  console.log(x + y);
+  console.log(x + )
 }
 
 function subtract(x, y) {
