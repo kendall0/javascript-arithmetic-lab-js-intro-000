@@ -1,16 +1,18 @@
 var number;
 
 function add(a, b) {
-  number = (a + b);
+  number = a + b;
   return number;
 }
 
 function subtract(x, y) {
-  console.log(x - y);
+  number = x - y;
+  return number;
 }
 
 function multiply(x, y) {
-  console.log(x * y);
+  number = x * y;
+  return number;
 }
 
 function divide(x, y) {
