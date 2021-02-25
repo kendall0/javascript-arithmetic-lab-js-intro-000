@@ -46,10 +46,10 @@ divideBy3()
 
 console.log(number) // 5
 
-function increment(a) {
-  console.log(a + 1);
+function increment(n) {
+  console.log(n + 1);
 }
 
 function decrement(n) {
-  console.log(a - 1);
+  console.log(n - 1);
 }
