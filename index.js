@@ -29,3 +29,8 @@ function decrement(n) {
   number = n - 1;
   return number;
 }
+
+function makeInt(string) {
+  string = parseInt('2.2222');
+  return string;
+}
