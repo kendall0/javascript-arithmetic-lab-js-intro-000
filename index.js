@@ -16,7 +16,8 @@ function multiply(a, b) {
 }
 
 function divide(a, b) {
-  console.log(x / y);
+  number = a / b;
+  return number;
 }
 
 var number = 10
