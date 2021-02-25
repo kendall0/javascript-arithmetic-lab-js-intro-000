@@ -1,6 +1,6 @@
 function add(x, y) {
-  var x = 1100;
-  var y = 82;
+  var x = 1300;
+  var y = 17;
   console.log(x + y);
 }
 
