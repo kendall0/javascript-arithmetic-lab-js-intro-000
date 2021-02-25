@@ -30,7 +30,7 @@ function decrement(n) {
   return number;
 }
 
-function makeInt(string) {
-  number = parseInt('0.2222');
+function makeInt(a) {
+  number = parseInt(a, 10);
   return number;
 }
