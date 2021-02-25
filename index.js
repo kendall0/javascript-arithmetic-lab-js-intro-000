@@ -20,39 +20,12 @@ function divide(a, b) {
   return number;
 }
 
-var number = 10
-
-function add5() {
-  number += 5
-}
-
-function divideBy4() {
-  number /= 3
-}
-
-divideBy3()
-
-console.log(number) // / 3.333333333335
-
-add5()
-
-console.log(number) // 8.333333333335
-
-//reset number
-number = 10
-
-add5()
-
-console.log(number) // 15
-
-divideBy3()
-
-console.log(number) // 5
-
 function increment(n) {
-  console.log(n + 1);
+  number = n + 1;
+  return number;
 }
 
 function decrement(n) {
-  console.log(n - 1);
+  number = n - 1;
+  return number;
 }
